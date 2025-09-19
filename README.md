@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Manojkumar
 - 👀 I’m interested in learning technologies
-- 🌱 I’m currently learning IoT
+- 🌱 I have experience in working on PySpark, cloud computing, DevOps and IoT
+- 📙 Currently pursuing a Master's in Cloud Computing at National College of Ireland
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me on Whatsapp:7094014607, Instagram: manoj_kvk
+- 📫 How to reach me on Whatsapp:+91 7094014607 or +353 892036254, Instagram: manoj_kvk
   
 
 <!---
